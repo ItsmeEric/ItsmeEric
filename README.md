@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eric
 - 👀 I’m interested in Softwate Engineer.
-- 🌱 I’m currently learning Front-End Web Development(On JavaScript now).
+- 🌱 I’m currently learning Front-End Web Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
